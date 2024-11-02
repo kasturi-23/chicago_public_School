@@ -1,0 +1,21 @@
+Student_id,Student_name,Student_age,Student_DOB,School_id,Class_id,student_email
+01,Alice Smith,12,2011-04-15,SCH01,CLS01,alice.smith@example.com
+02,Bob Johnson,13,2010-05-20,SCH01,CLS01,bob.johnson@example.com
+STU03,Charlie Brown,12,2011-06-25,SCH02,CLS02,charlie.brown@example.com
+STU04,Diana Prince,14,2009-07-30,SCH02,CLS02,diana.prince@example.com
+STU05,Ethan Hunt,11,2012-08-05,SCH03,CLS03,ethan.hunt@example.com
+STU06,Fiona Apple,13,2010-09-10,SCH03,CLS03,fiona.apple@example.com
+STU07,George Washington,15,2008-10-15,SCH04,CLS01,george.washington@example.com
+STU08,Hannah Montana,12,2011-11-20,SCH04,CLS02,hannah.montana@example.com
+STU09,Isabella Rossellini,14,2009-12-25,SCH05,CLS01,isabella.rossellini@example.com
+STU10,Jack Sparrow,13,2010-01-01,SCH05,CLS02,jack.sparrow@example.com
+STU11,Karen Blixen,11,2012-02-10,SCH06,CLS03,karen.blixen@example.com
+STU12,Luke Skywalker,15,2008-03-15,SCH06,CLS01,luke.skywalker@example.com
+STU13,Mia Wallace,12,2011-04-20,SCH07,CLS02,mia.wallace@example.com
+STU14,Nina Simone,13,2010-05-25,SCH07,CLS02,nina.simone@example.com
+STU15,Oliver Twist,14,2009-06-30,SCH08,CLS03,oliver.twist@example.com
+STU16,Penny Lane,12,2011-07-05,SCH08,CLS01,penny.lane@example.com
+STU17,Quentin Tarantino,13,2010-08-10,SCH09,CLS02,quentin.tarantino@example.com
+STU18,Rachel Green,14,2009-09-15,SCH09,CLS03,rachel.green@example.com
+STU19,Steve Rogers,11,2012-10-20,SCH10,CLS01,steve.rogers@example.com
+STU20,Tina Turner,12,2011-11-25,SCH10,CLS02,tina.turner@example.com

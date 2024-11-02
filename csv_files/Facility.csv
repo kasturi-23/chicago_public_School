@@ -1,0 +1,21 @@
+Facility_id,Facility_name,Facility_type,Facility_capacity,School_id
+1,Gymnasium,Gym,500,1
+2,Library,Resource,200,1
+3,Science Lab,Classroom,30,2
+4,Art Room,Classroom,25,2
+5,Auditorium,Performance,300,3
+6,Football Field,Sports,1000,3
+7,Cafeteria,Dining,150,4
+8,Computer Lab,Resource,40,4
+9,Music Room,Classroom,20,5
+10,Science Lab,Classroom,30,5
+11,Gymnasium,Gym,500,6
+12,Library,Resource,200,6
+13,Art Studio,Classroom,25,7
+14,Theater,Performance,300,7
+15,Playground,Outdoor,1000,8
+16,Conference Room,Meeting,50,8
+17,Gymnasium,Gym,500,9
+18,Library,Resource,200,9
+19,Art Room,Classroom,25,10
+20,Science Lab,Classroom,30,10

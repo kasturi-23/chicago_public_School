@@ -1,0 +1,21 @@
+Teacher_id,Teacher_name,Teacher_email,School_id
+1,Ms. Anderson,manderson@school.com,1
+2,Mr. Johnson,mjohnson@school.com,1
+3,Dr. Smith,smith@school.com,2
+4,Ms. Taylor,mtaylor@school.com,2
+5,Mr. Lee,mlee@school.com,3
+6,Ms. Wilson,fwilson@school.com,3
+7,Mr. Brown,mbrown@school.com,4
+8,Ms. Davis,mdavis@school.com,4
+9,Dr. Miller,dmiller@school.com,5
+10,Ms. Garcia,agarcia@school.com,5
+11,Mr. Thompson,mthompson@school.com,6
+12,Ms. Martinez,mmartinez@school.com,6
+13,Mr. Walker,mwalker@school.com,7
+14,Ms. Harris,eharris@school.com,7
+15,Dr. Clark,dclark@school.com,8
+16,Ms. Lewis,klewis@school.com,8
+17,Mr. Lee,jlee@school.com,9
+18,Ms. Young,syoung@school.com,9
+19,Mr. King,jking@school.com,10
+20,Ms. Wright,awright@school.com,10

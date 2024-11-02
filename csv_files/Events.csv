@@ -1,0 +1,21 @@
+Event_id,Event_name,Event_date,Event_location,School_id
+1,Science Fair,5/1/2024,Main Hall,1
+2,Spring Concert,5/15/2024,Auditorium,1
+3,Math Olympiad,4/10/2024,Gym,2
+4,Art Exhibition,3/20/2024,Art Room,2
+5,Field Day,6/5/2024,Football Field,3
+6,Graduation Ceremony,6/15/2024,Main Hall,3
+7,Book Fair,5/10/2024,Lobby,4
+8,Open House,4/15/2024,Cafeteria,4
+9,History Day,3/30/2024,History Room,5
+10,Spring Play,4/20/2024,Theater,5
+11,Teacher Appreciation Day,5/25/2024,Staff Room,6
+12,Music Festival,6/1/2024,Main Hall,6
+13,Spelling Bee,4/12/2024,Library,7
+14,Choral Concert,5/5/2024,Auditorium,7
+15,Sports Day,6/10/2024,Football Field,8
+16,Science Night,5/20/2024,Gym,8
+17,Math Night,3/15/2024,Cafeteria,9
+18,Art and Craft Fair,4/25/2024,Art Room,9
+19,Family Fun Night,6/3/2024,Main Hall,10
+20,Winter Concert,12/15/2024,Auditorium,10
